@@ -1,5 +1,5 @@
 *{border:1px solid grey}
-
+*{font-style: DM Sans;}
 *{background-color: #cbc3e3;}
 
 header{
@@ -17,5 +17,5 @@ header{
 }
 
 .portfoliosampler{
-    max-width: 100%;
+    max-width: 95%;
 }
