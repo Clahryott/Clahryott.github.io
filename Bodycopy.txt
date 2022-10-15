@@ -1,6 +1,17 @@
 
 add text here for webpages
 
+Hello,
+I'm Claire Kathryn Truscott
+Front-end developer student based in Perth, Western Australia
+
+About me section----
+
+About Claire Kathryn
+
+I am a front-end developer student with a Cert IV in Graphic Design with a passion for all things design.
+ 
+Learn More (BUTTON) 
 
 Oh hello there, I'm Claire Kathryn Truscott, a Front End Developer from Perth, Western Australia. 
 
@@ -22,3 +33,6 @@ Summarize your skills and establish credibility
 2. State your areas of expertise
 3. Focus on bringing clients value
 Your biography should be descriptive, but not too long. Add job headings, dates, and a quick description of your work and skills. P
+
+started following some online courses freeCodeCamp, Coursera and SheCodes. 
+teaching me the fundamentals of front end development.
