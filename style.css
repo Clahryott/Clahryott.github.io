@@ -3,9 +3,17 @@
 header{
     display: flex;
     justify-content: space-between;
+}
 
+.socialicons{
+    display: flex;
+    justify-content: space-around;
+}
 
+.socialicons img{
+    width: 40px;
+}
 
-
-
+.portfoliosampler{
+    max-width: 100%;
 }
