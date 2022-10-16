@@ -1,4 +1,4 @@
-*{border:1px solid grey}
+/**{border:1px solid grey}*/
 *{font-style: normal;}
 *{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 *{color: blueviolet;}
@@ -51,27 +51,29 @@ P.blocktext{
     justify-content: space-between;
     padding: 2px 4px;
     max-width: 95%;
-    background-color: white;
+} 
     
-.portfolio{
+/*.portfolio{
         background-color:white;
         max-width: 95%;
-    }
+}*/
     
-#sectionportfolio{
+#section-portfolio{
     height:50%;
     background-color: white;
     display: flex;
     justify-content: space-between;
     padding: 2px 4px;
     max-width: 95%;
-    background-color: white;
+}
 
 .form-item{
+    max-height: 70%;
     justify-content: center;
     display: flex;
-    padding: 2px 4px;
-}
+    background-color: burlywood;
+} 
+
 
 
 @media (min-width: 500px) {
