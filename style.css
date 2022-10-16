@@ -34,3 +34,17 @@ P.blocktext{
 .form action{
     justify-content: center;
 }
+
+@media (min-width: 500px) {
+    div {
+        display: inline-flexbox
+        width: 44%;
+    }
+    /* some styles */
+   
+}
+
+@media (max-width: 500px) {
+    /* some styles */
+   
+}
