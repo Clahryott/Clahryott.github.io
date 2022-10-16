@@ -49,7 +49,10 @@ P.blocktext{
     margin: 10px;
     flex-direction: column;
     vertical-align: middle;
+}
 
+#columncenter{
+    justify-content: space-around;
 }
 
 .skills{
@@ -85,7 +88,9 @@ P.blocktext{
     padding: 2px 4px;
     max-width: 95%;
 }
-
+.contact{
+    justify-content: center;
+}
 .form-item{
     max-height: 80%;
     max-width: 80%;
