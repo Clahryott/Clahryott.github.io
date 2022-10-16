@@ -33,6 +33,25 @@ P.blocktext{
     width: 40px;
 }
 
+#profilediv{
+    justify-content: space-around;
+    padding: 10px;
+    border-image: space;
+    position: relative;
+    height: 400px;
+    border: 2px;
+    vertical-align: middle;
+}
+
+#profilediv-bio{
+    justify-content: space-around;
+    padding: 20px;
+    margin: 10px;
+    flex-direction: column;
+    vertical-align: middle;
+
+}
+
 .skills{
     display: flex;
     justify-content: space-between;
@@ -47,10 +66,11 @@ P.blocktext{
 #section-3{
     height:50%;
     background-color: white;
-    display: flex;
+    display: table-cell;
     justify-content: space-between;
-    padding: 2px 4px;
+    padding: 2px 4px white;
     max-width: 95%;
+    align-content: space-around;
 } 
     
 /*.portfolio{
@@ -60,21 +80,19 @@ P.blocktext{
     
 #section-portfolio{
     height:50%;
-    background-color: white;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    justify-content: space-around;
     padding: 2px 4px;
     max-width: 95%;
 }
 
 .form-item{
-    max-height: 70%;
-    max-width: 70%;
+    max-height: 80%;
+    max-width: 80%;
     justify-content: center;
-    display: flex;
+    display: table-caption;
+    padding: 2px;
 } 
-
-
 
 @media (min-width: 500px) {
     div {
