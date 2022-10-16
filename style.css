@@ -27,11 +27,11 @@ P.blocktext{
     width: 40px;
 }
 
-.portfoliosampler{
-    max-width: 95%;
+.skills{
+    justify-content: flex-end;
 }
 
-.form action{
+.forma action{
     justify-content: center;
 }
 
