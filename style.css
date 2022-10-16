@@ -69,6 +69,7 @@ P.blocktext{
 
 .form-item{
     max-height: 70%;
+    max-width: 70%;
     justify-content: center;
     display: flex;
     background-color: burlywood;
