@@ -37,14 +37,17 @@ P.blocktext{
 
 @media (min-width: 500px) {
     div {
-        display: inline-flexbox
-        width: 44%;
-    }
+        display: table-cell;
     /* some styles */
    
 }
 
 @media (max-width: 500px) {
+    div {
+        display: flex;
+        justify-content: space-between;
+
+    }
     /* some styles */
    
 }
