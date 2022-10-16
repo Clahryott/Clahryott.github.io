@@ -28,7 +28,8 @@ P.blocktext{
 }
 
 .skills{
-    justify-content: flex-end;
+    display: flex;
+    justify-content: space-between;
 }
 
 .forma action{
